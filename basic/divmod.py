@@ -1,0 +1,6 @@
+x=int(input("Enter the Divident = "))
+y=int(input("Enter the Divisor = "))
+z=divmod(x,y)
+print(z)
+print("Quotient = ",z[0])
+print("Reminder = ",z[1])
