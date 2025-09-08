@@ -7,3 +7,6 @@ print(datatypes)
 print(type(hero))
 print(type(marks))
 print(type(datatypes))
+
+hero[0]="hulk"
+print(hero)//mutable
