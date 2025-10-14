@@ -1,6 +1,4 @@
-
 import numpy as np
-# ----- Part B -----
 m = int(input("\nEnter number of rows (m): "))
 n = int(input("Enter number of columns (n): "))
 
